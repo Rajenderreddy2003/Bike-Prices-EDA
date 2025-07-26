@@ -46,4 +46,4 @@ The notebook covers:
 
 ## 📌 Author
 
-This project was created by **Padigela Rajender Reddy** as a personal data analysis projet.
+This project was created by **Rajender Reddy Padigela** as a personal data analysis projet.
