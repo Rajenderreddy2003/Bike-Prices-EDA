@@ -1,0 +1,417 @@
+﻿Brand,Model_Name,CC,BHP,Mileage,Price,Type,Weight,Rating
+Royal-Enfield,Royal Enfield Hunter 350,349.34,20.2,35,"₹ 1,49,900",Petrol,177,4.8
+Royal-Enfield,Royal Enfield Classic 350,349,20.2,34,"₹ 1,95,300",Petrol,195,4.7
+Royal-Enfield,Royal Enfield Continental GT 650,648,47,25,"₹ 3,18,801",Petrol,211,4.8
+Royal-Enfield,Royal Enfield Bullet 350,349,20.2,36,"₹ 1,74,875",Petrol,195,4.7
+Royal-Enfield,Royal Enfield Meteor 350,349.34,19.94,35,"₹ 2,08,191",Petrol,191,4.6
+Royal-Enfield,Royal Enfield Himalayan 450,452,39.47,29,"₹ 2,85,000",Petrol,196,4.7
+Royal-Enfield,Royal Enfield Guerrilla 450,452,39.47,30,"₹ 2,39,000",Petrol,185,4.7
+Royal-Enfield,Royal Enfield Shotgun 650,648,46.39,23,"₹ 3,59,435",Petrol,240,4.8
+Royal-Enfield,Royal Enfield Super Meteor 650,648,46.3,25.5,"₹ 3,68,085",Petrol,241,4.8
+Royal-Enfield,Royal Enfield Classic 650,647.95,46.39,29.5,"₹ 3,37,000",Petrol,243,4.4
+Royal-Enfield,Royal Enfield Goan Classic 350,349,20.2,33,"₹ 2,35,000",Petrol,197,4.8
+Royal-Enfield,Royal Enfield Interceptor 650,648,47,21.5,"₹ 3,02,802",Petrol,213,4.6
+Royal-Enfield,Royal Enfield Scram 440,443,25.4,30,"₹ 2,08,000",Petrol,196,4.2
+Royal-Enfield,Royal Enfield Bear 650,648,46.8,25,"₹ 3,39,005",Petrol,216,4.6
+Honda,Honda SP 125,123.94,10.72,60,"₹ 92,734",Petrol,116,4.5
+Honda,Honda Activa,109.51,7.88,45,"₹ 83,775",Petrol,106,4.4
+Honda,Honda Shine,123.94,10.59,55,"₹ 85,139",Petrol,113,4.4
+Honda,Honda Unicorn,162.71,13,51,"₹ 1,19,729",Petrol,139,4.4
+Honda,Honda Activa 125,123.92,8.3,45,"₹ 97,276",Petrol,107,4.5
+Honda,Honda CB350,348.66,20.7,35,"₹ 2,14,763",Petrol,186,4.7
+Honda,Honda SP160,162.71,13.27,50,"₹ 1,22,472",Petrol,138,4.5
+Honda,Honda Hornet 2.0,184.4,17.03,45,"₹ 1,57,234",Petrol,142,4.2
+Honda,Honda Hness CB350,348.36,20.78,35,"₹ 2,10,480",Petrol,181,4.5
+Honda,Honda Activa e,0,,102,"₹ 1,17,000",EV,118,4.6
+Honda,Honda Dio,109.51,7.75,48,"₹ 77,173",Petrol,106,4.5
+Honda,Honda CB350RS,348.36,20.78,35.5,"₹ 2,15,503",Petrol,180,4.6
+Honda,Honda Shine 100,98.98,7.28,71.5,"₹ 68,894",Petrol,99,4.7
+Honda,Honda Dio 125,123.92,8.19,48,"₹ 97,132",Petrol,105,4.6
+Honda,Honda NX200,184.4,17.03,38,"₹ 1,68,490",Petrol,148,4.7
+Honda,Honda Livo,109.51,8.67,60,"₹ 83,569",Petrol,112,4.4
+Honda,Honda Rebel 500,471,45.5,,"₹ 5,12,000",Petrol,191,5
+Honda,Honda CB300R,286,30.7,31,"₹ 2,40,005",Petrol,146,4.7
+Honda,Honda CB200X,184.4,17.03,40,"₹ 1,51,118",Petrol,147,4.4
+Honda,Honda CB1000 Hornet,999,155,,"₹ 12,35,900",Petrol,211,5
+Honda,Honda CBR650R,649,93.8,,"₹ 10,39,948",Petrol,209,4.5
+Honda,Honda CB300F Flex-Fuel,293.52,24.54,35,"₹ 1,70,006",Petrol,153,4.6
+Honda,Honda CB750 Hornet,755,90.5,,"₹ 8,59,500",Petrol,191,5
+Honda,Honda Goldwing Tour,1833,124.7,17.5,"₹ 39,77,917",Petrol,390,4.7
+Honda,Honda NX500,471,46.9,,"₹ 5,90,000",Petrol,196,4.7
+Honda,Honda CB650R,649,93.8,,"₹ 9,59,974",Petrol,205,
+Honda,Honda QC1,0,,80,"₹ 90,000",EV,89.5,4.5
+Honda,Honda X-ADV,745,57.79,,"₹ 11,90,065",Petrol,,4.5
+Honda,Honda Africa Twin,1082,97.89,,"₹ 16,01,500",Petrol,239,4.9
+Honda,Honda Transalp XL750,755,90.5,,"₹ 10,99,990",Petrol,208,5
+Bajaj,Bajaj Pulsar N160,164.82,15.68,47,"₹ 1,29,110",Petrol,154,4.6
+Bajaj,Bajaj Pulsar NS200,199.5,24.13,41,"₹ 1,58,857",Petrol,158,4.7
+Bajaj,Bajaj Pulsar NS400Z,373,39.4,32,"₹ 1,85,176",Petrol,174,4.6
+Bajaj,Bajaj Pulsar 150,149.5,13.8,47,"₹ 1,14,306",Petrol,148,4.5
+Bajaj,Bajaj Pulsar 125,124.4,11.64,52,"₹ 86,813",Petrol,140,4.4
+Bajaj,Bajaj Pulsar NS125,124.45,11.8,50,"₹ 1,03,254",Petrol,144,4.5
+Bajaj,Bajaj Pulsar RS 200,199.5,24.1,35,"₹ 1,84,744",Petrol,167,4.7
+Bajaj,Bajaj Pulsar NS160,160.3,17.03,43,"₹ 1,46,590",Petrol,152,4.6
+Bajaj,Bajaj Chetak,0,,127,"₹ 99,900",EV,,3.9
+Bajaj,Bajaj Dominar 400,373.3,39.42,28,"₹ 2,35,288",Petrol,193,4.7
+Bajaj,Bajaj Pulsar N125,124.58,11.83,56.5,"₹ 94,743",Petrol,125,4.5
+Bajaj,Bajaj Pulsar 220 F,220,20.11,40,"₹ 1,41,587",Petrol,160,4.7
+Bajaj,Bajaj Pulsar N250,249,24.1,39.5,"₹ 1,51,261",Petrol,162,4.6
+Bajaj,Bajaj Dominar 250,248.8,26.63,33,"₹ 1,89,558",Petrol,180,4.5
+Bajaj,Bajaj Pulsar N150,149.68,14.3,48,"₹ 1,21,950",Petrol,145,4.6
+Bajaj,Bajaj Freedom,125,9.3,90,"₹ 93,278",CNG,149,4.7
+Bajaj,Bajaj Platina 100,102,7.79,72,"₹ 69,001",Petrol,117,4.5
+Bajaj,Bajaj Platina 110,115.45,8.48,70,"₹ 71,496",Petrol,119,4.4
+Bajaj,Bajaj CT 110,115.45,8.48,65,"₹ 68,617",Petrol,127,4.3
+Bajaj,Bajaj Avenger Street 160,160,14.79,42.5,"₹ 1,16,434",Petrol,156,4.4
+Bajaj,Bajaj Avenger Cruise 220,220,18.76,39,"₹ 1,46,571",Petrol,163,4.4
+Bajaj,Bajaj Avenger Street 220,220,18.76,40,"₹ 1,43,998",Petrol,163,4.5
+Bajaj,Bajaj Chetak [2024],0,,123,"₹ 1,00,805",EV,,3.7
+TVS,TVS Apache RTR 160,159.7,15.82,45,"₹ 1,18,142",Petrol,137,4.5
+TVS,TVS Jupiter,113.3,7.91,52,"₹ 80,552",Petrol,105,4.6
+TVS,TVS Raider 125,124.8,11.2,60,"₹ 90,094",Petrol,123,4.4
+TVS,TVS Ntorq 125,124.8,9.25,42,"₹ 94,645",Petrol,118,4.4
+TVS,TVS Ronin,225.9,20.1,40,"₹ 1,35,551",Petrol,159,4.6
+TVS,TVS Apache RTR 160 4V,159.7,17.31,45,"₹ 1,23,670",Petrol,144,4.5
+TVS,TVS Jupiter 125,124.8,8.04,53,"₹ 88,931",Petrol,108,4
+TVS,TVS Apache RR 310,312.2,37.48,33,"₹ 2,78,063",Petrol,174,4.7
+TVS,TVS iQube,0,,94,"₹ 1,02,366",EV,115,3.6
+TVS,TVS Apache RTR 200 4V,197.75,20.54,39,"₹ 1,49,912",Petrol,152,4.5
+TVS,TVS Sport,109.7,8.08,69,"₹ 65,133",Petrol,112,4.4
+TVS,TVS Apache RTR 310,312.12,35.08,31.5,"₹ 2,50,054",Petrol,169,4.8
+TVS,TVS XL 100 Heavy Duty,99.7,4.3,55,"₹ 45,791",Petrol,88,4.4
+TVS,TVS Apache RTR 180,177.4,16.78,48,"₹ 1,35,619",Petrol,140,4.6
+TVS,TVS Radeon,109.7,8.08,62,"₹ 75,012",Petrol,113,4.4
+TVS,TVS Star City Plus,109.7,8.08,70,"₹ 74,808",Petrol,115,4.4
+TVS,TVS Zest 110,109.7,7.71,45,"₹ 75,199",Petrol,103,4.2
+TVS,TVS XL 100 Comfort,99.7,4.3,55,"₹ 46,728",Petrol,86,4.2
+TVS,TVS X,0,,140,"₹ 2,52,319",EV,,3.4
+Yamaha,Yamaha MT 15 V2,155,18.1,46,"₹ 1,70,583",Petrol,141,4.7
+Yamaha,Yamaha R15 V4,155,18.1,46.5,"₹ 1,85,255",Petrol,141,4.8
+Yamaha,Yamaha FZS FI V4,149,12.2,50,"₹ 1,31,283",Petrol,136,4.6
+Yamaha,Yamaha FZ S Hybrid,149,12.2,51,"₹ 1,45,384",Petrol,136,4.6
+Yamaha,Yamaha Ray ZR 125,125,8.04,52,"₹ 88,396",Petrol,99,4.4
+Yamaha,Yamaha FZ S FI,149,12.2,48,"₹ 1,23,485",Petrol,135,4.3
+Yamaha,Yamaha Aerox 155,155,14.75,40,"₹ 1,50,882",Petrol,126,4.6
+Yamaha,Yamaha FZ X,149,12.2,49,"₹ 1,39,092",Petrol,139,3.9
+Yamaha,Yamaha YZF-R3,321,41.4,29,"₹ 3,60,278",Petrol,169,3.4
+Yamaha,Yamaha MT-03,321,41.4,35,"₹ 3,50,278",Petrol,167,4.1
+Yamaha,Yamaha FZ FI,149,12.2,45,"₹ 1,17,842",Petrol,135,4.6
+Yamaha,Yamaha R15S,155,18.1,47,"₹ 1,68,355",Petrol,142,4.8
+Yamaha,Yamaha Fascino 125,125,8.04,50,"₹ 83,568",Petrol,99,4.2
+Hero,Hero Xtreme 125R,124.7,11.4,57,"₹ 98,234",Petrol,136,4.6
+Hero,Hero Splendor Plus,97.2,7.91,63,"₹ 74,932",Petrol,112,4.6
+Hero,Hero Xpulse 210,210,24.2,37,"₹ 1,75,800",Petrol,168,4.7
+Hero,Hero Xtreme 250R,249.03,29.5,36,"₹ 1,80,000",Petrol,167.7,4.8
+Hero,Hero Splendor Plus Xtec,97.2,7.9,70,"₹ 80,750",Petrol,112,4.6
+Hero,Hero HF Deluxe,97.2,7.91,70,"₹ 56,701",Petrol,110,4.5
+Hero,Hero Xtreme 160R,163.2,14.79,45,"₹ 1,11,308",Petrol,139.5,4.4
+Hero,Hero Xpulse 200 4V,199.6,18.9,32,"₹ 1,51,235",Petrol,159,4.5
+Hero,Hero Glamour,124.7,10.39,60,"₹ 85,080",Petrol,121.3,4.1
+Hero,Hero Xoom 125,124.6,9.8,48,"₹ 88,465",Petrol,120,4.6
+Hero,Hero Destini 125,124.6,9,55.5,"₹ 81,337",Petrol,115,4.6
+Hero,Hero Xtreme 160R 4V,163.2,16.6,46,"₹ 1,39,963",Petrol,145,4.7
+Hero,Hero Karizma XMR,210,25.15,35,"₹ 1,81,400",Petrol,163.5,4.5
+Hero,Hero Pleasure +,110.9,8,47.5,"₹ 70,611",Petrol,104,4.5
+Hero,Hero Passion Plus,97.2,7.91,60,"₹ 79,498",Petrol,115,4.6
+Hero,Hero Mavrick 440,440,27,32,"₹ 1,99,500",Petrol,191,4.8
+Hero,Hero Super Splendor Xtec,124.7,10.72,61,"₹ 84,975",Petrol,122,4.5
+Hero,Hero Xoom 110,110.9,8.05,45,"₹ 76,212",Petrol,108,4.4
+Hero,Hero Xoom 160,156,14.6,40,"₹ 1,48,500",Petrol,142,4.8
+Hero,Hero Glamour Xtec,124.7,10.72,54,"₹ 90,099",Petrol,122,4.1
+Hero,Hero Pleasure + Xtec,110.9,8,50,"₹ 79,834",Petrol,106,3.8
+Hero,Hero Destini Prime,124.6,9,50,"₹ 75,969",Petrol,115,4.6
+Kawasaki,Kawasaki Z900,948,122,37,"₹ 9,52,000",Petrol,213,4.6
+Kawasaki,Kawasaki Ninja ZX-10R,998,200.21,37,"₹ 18,50,000",Petrol,207,4.9
+Kawasaki,Kawasaki Ninja 300,296,38.88,25,"₹ 3,43,000",Petrol,179,4
+Kawasaki,Kawasaki W175,177,12.8,40,"₹ 1,22,014",Petrol,135,4.2
+Kawasaki,Kawasaki Z650,649,67.31,27,"₹ 6,65,225",Petrol,191,4.9
+Kawasaki,Kawasaki Ninja ZX-6R,636,122.03,21.5,"₹ 11,53,000",Petrol,198,5
+Kawasaki,Kawasaki Ninja 500,451,44.7,21,"₹ 5,29,000",Petrol,171,4.8
+Kawasaki,Kawasaki Eliminator,451,44.7,29,"₹ 5,62,184",Petrol,176,4.6
+Kawasaki,Kawasaki Ninja 650,649,67.3,,"₹ 7,27,000",Petrol,196,4.5
+Kawasaki,Kawasaki Ninja ZX-4R,399,76.4,21.5,"₹ 8,79,000",Petrol,189,4.8
+Kawasaki,Kawasaki Ninja H2 SX,998,197.2,27.5,"₹ 32,91,000",Petrol,266,4.7
+Kawasaki,Kawasaki Versys-X 300,296,38.8,,"₹ 3,79,900",Petrol,179,3
+Kawasaki,Kawasaki Z H2,998,197.26,,"₹ 23,48,138",Petrol,239,4.6
+Kawasaki,Kawasaki Vulcan S,649,59.94,,"₹ 7,10,000",Petrol,235,3.8
+Kawasaki,Kawasaki KLX 230,233,17.8,,"₹ 3,30,000",Petrol,139,3
+Kawasaki,Kawasaki Ninja ZX-4RR,399,78.7,,"₹ 9,42,000",Petrol,189,5
+Kawasaki,Kawasaki Ninja 1100SX,1099,134.1,,"₹ 13,49,000",Petrol,238,5
+Kawasaki,Kawasaki Versys 650,649,65.7,,"₹ 7,93,000",Petrol,218,4
+Kawasaki,Kawasaki Ninja H2 SX SE,998,197.2,,"₹ 32,95,065",Petrol,268,5
+Kawasaki,Kawasaki Z900RS,948,109.96,,"₹ 17,47,000",Petrol,215,5
+Kawasaki,Kawasaki Z650RS,649,67.31,,"₹ 7,20,000",Petrol,192,4.6
+Kawasaki,Kawasaki Versys 1100,1099,132.76,,"₹ 12,90,000",Petrol,257,4
+Kawasaki,Kawasaki KLX 300R,292,28.6,,"₹ 5,60,000",Petrol,128,
+Kawasaki,Kawasaki KX 85,84,,,"₹ 4,20,000",Petrol,74.6,5
+Kawasaki,Kawasaki KLX450R,449,,,"₹ 8,99,000",Petrol,126,4.5
+Kawasaki,Kawasaki KLX110R L,112,,,"₹ 3,12,000",Petrol,76,5
+Kawasaki,Kawasaki KLX 140R F,144,11.1,,"₹ 4,11,000",Petrol,99,
+Kawasaki,Kawasaki KX112,112,,,"₹ 4,87,800",Petrol,77,4.5
+Kawasaki,Kawasaki KX65,64,,,"₹ 3,12,000",Petrol,60,5
+Kawasaki,Kawasaki KLX230RS,233,19.57,,"₹ 5,21,000",Petrol,115,5
+Kawasaki,Kawasaki KX250,249,,,"₹ 8,47,000",Petrol,108,
+Kawasaki,Kawasaki KX450,449,,,"₹ 9,28,000",Petrol,110.2,5
+KTM,KTM 200 Duke,199.5,24.67,35,"₹ 2,05,516",Petrol,159,4.7
+KTM,KTM 250 Duke,249.07,30.57,31.5,"₹ 2,29,995",Petrol,162.8,4.8
+KTM,KTM 390 Duke,398.63,45.3,31,"₹ 2,95,404",Petrol,168.3,4.7
+KTM,KTM 1390 Super Duke R,1350,187.7,30,"₹ 22,95,800",Petrol,210,4.5
+KTM,KTM 390 Adventure,398.63,45.3,,"₹ 3,68,259",Petrol,182,4.8
+KTM,KTM RC 200,199.5,24.6,35,"₹ 2,33,004",Petrol,160,4.5
+KTM,KTM 250 Adventure,248.76,30.5,,"₹ 2,60,397",Petrol,177,3.7
+KTM,KTM RC 390,373.27,42.9,29,"₹ 3,23,006",Petrol,172,4.7
+KTM,KTM 390 Adventure X,398.63,45.3,,"₹ 2,91,699",Petrol,181,4.7
+KTM,KTM 890 Duke R,889,119,,"₹ 14,50,000",Petrol,180,4.4
+KTM,KTM 390 Enduro R,398.63,45.37,47,"₹ 3,39,028",Petrol,177,4.5
+KTM,KTM 390 Adventure [2024],373.27,42.9,28,"₹ 3,41,878",Petrol,177,4.7
+KTM,KTM 250 Adventure [2024],248.76,29.63,30,"₹ 2,46,651",Petrol,177,4.7
+KTM,KTM 390 Adventure X [2024],373.27,42.9,32,"₹ 2,83,797",Petrol,177,4.7
+KTM,KTM 890 Adventure R,889,103,,"₹ 15,80,000",Petrol,215,5
+KTM,KTM 1290 Super Adventure S,1301,158,,"₹ 22,73,900",Petrol,250,5
+KTM,KTM 450 SX-F,449.9,62.1,,"₹ 10,25,000",Petrol,107,
+KTM,KTM 250 SX-F,249.9,46.1,,"₹ 9,58,000",Petrol,104,
+KTM,KTM 350 EXC-F,349.7,44.3,,"₹ 12,96,000",Petrol,103.2,4
+KTM,KTM 85 SX,84.9,15.5,,"₹ 6,69,000",Petrol,75,3
+KTM,KTM 65 SX,64.9,11.2,,"₹ 5,46,500",Petrol,62,
+KTM,KTM 50 SX,49.9,5.3,,"₹ 4,75,000",Petrol,45,3.7
+Suzuki,Suzuki Access 125,124,8.3,46.5,"₹ 84,789",Petrol,106,4.6
+Suzuki,Suzuki Burgman Street 125,124,8.58,50,"₹ 96,572",Petrol,110,4.5
+Suzuki,Suzuki Gixxer SF,155,13.4,45,"₹ 1,47,968",Petrol,148,4.5
+Suzuki,Suzuki Hayabusa,1340,190,17.5,"₹ 16,90,000",Petrol,266,5
+Suzuki,Suzuki V-Strom SX,249,26.1,36,"₹ 2,18,451",Petrol,167,4.7
+Suzuki,Suzuki Avenis 125,124.3,8.58,50,"₹ 93,862",Petrol,106,4.6
+Suzuki,Suzuki Gixxer,155,13.41,45,"₹ 1,38,567",Petrol,141,4.4
+Suzuki,Suzuki Gixxer SF 250,249,26.13,36,"₹ 2,09,054",Petrol,161,4.6
+Suzuki,Suzuki Gixxer 250,249,26.13,35,"₹ 2,00,052",Petrol,156,4.7
+Suzuki,Suzuki V-Strom 800 DE,776,83,,"₹ 10,30,000",Petrol,232,
+Suzuki,Suzuki GSX-8R,776,81.8,,"₹ 9,25,000",Petrol,205,
+Suzuki,Suzuki Gixxer SF 250 Flex Fuel,249,26.13,36,"₹ 2,17,567",Petrol,161,4.7
+Suzuki,Suzuki Katana,999,150.19,,"₹ 13,62,969",Petrol,217,4.9
+Triumph,Triumph Speed 400,398.15,39.5,28,"₹ 2,46,374",Petrol,176,4.6
+Triumph,Triumph Speed T4,398.15,30.6,29,"₹ 1,99,157",Petrol,180,4.6
+Triumph,Triumph Scrambler 400 X,398.15,39.5,25,"₹ 2,67,352",Petrol,185,4.8
+Triumph,Triumph Scrambler 400 XC,398,39.5,26,"₹ 2,94,304",Petrol,190,4.8
+Triumph,Triumph Rocket 3,2458,165,15,"₹ 21,98,251",Petrol,304,4.7
+Triumph,Triumph Street Triple RS,765,128.2,,"₹ 11,81,410",Petrol,166,4.7
+Triumph,Triumph Daytona 660,660,93.87,,"₹ 9,72,450",Petrol,201,4.4
+Triumph,Triumph Trident 660,660,80,20,"₹ 8,25,460",Petrol,189,4.9
+Triumph,Triumph Bonneville Bobber,1200,76.9,,"₹ 12,05,000",Petrol,251,4.6
+Triumph,Triumph Tiger 900,888,106.5,,"₹ 14,15,000",Petrol,219,5
+Triumph,Triumph Speed Triple 1200 RS,1160,177.5,,"₹ 17,95,000",Petrol,198,5
+Triumph,Triumph Street Triple R,765,118.4,,"₹ 10,17,000",Petrol,168,4.9
+Triumph,Triumph Speed Twin 900,900,64,,"₹ 8,89,000",Petrol,216,4
+Triumph,Triumph Scrambler 900,900,64.1,,"₹ 9,89,000",Petrol,223,4.9
+Triumph,Triumph Speed Twin 1200,1200,103.5,,"₹ 12,75,000",Petrol,216,4.5
+Triumph,Triumph Tiger 1200,1160,148,,"₹ 19,38,990",Petrol,245,4.8
+Triumph,Triumph Bonneville Speedmaster,1200,76.9,,"₹ 12,05,000",Petrol,263,5
+Triumph,Triumph Scrambler 1200,1200,89,,"₹ 11,83,000",Petrol,228,4
+Triumph,Triumph Bonneville T100,900,64.1,,"₹ 9,99,000",Petrol,228,5
+Triumph,Triumph Bonneville T120,1200,78.9,,"₹ 11,39,000",Petrol,236,4
+Triumph,Triumph Tiger Sport 660,660,80,,"₹ 9,45,000",Petrol,206,4.6
+Ampere,Ampere Reo,0,,70,"₹ 49,900",EV,,4.5
+Ampere,Ampere Magnus,0,,95,"₹ 84,829",EV,108,2.9
+Ampere,Ampere Primus,0,,107,"₹ 1,19,893",EV,130,4
+Ampere,Ampere Zeal EX,0,,120,"₹ 86,690",EV,,3.6
+Ampere,Ampere Nexus,0,,136,"₹ 1,14,900",EV,,4.6
+Aprilia,Aprilia RS 457,457,46.9,24,"₹ 4,20,002",Petrol,175,4.8
+Aprilia,Aprilia Tuono 457,457,46.9,,"₹ 3,95,005",Petrol,,4.6
+Aprilia,Aprilia SR 160,160.03,11.11,35,"₹ 1,32,812",Petrol,118,3.6
+Aprilia,Aprilia SR 125,124.45,9.97,40,"₹ 1,25,156",Petrol,118,4.5
+Aprilia,Aprilia RS 660,659,98.56,,"₹ 17,74,000",Petrol,183,4.3
+Aprilia,Aprilia SXR 160,160.03,10.94,35,"₹ 1,45,484",Petrol,129,3.9
+Aprilia,Aprilia RSV4 1100 Factory,1099,213.89,,"₹ 31,26,000",Petrol,202,5
+Aprilia,Aprilia Storm 125,124.45,9.97,40,"₹ 1,16,784",Petrol,118,4.5
+Aprilia,Aprilia SXR 125,124.45,9.48,,"₹ 1,34,102",Petrol,129,3.9
+Aprilia,Aprilia Tuareg 660,659,79.12,,"₹ 18,85,000",Petrol,204,4
+Aprilia,Aprilia Tuono 660,659,93.87,,"₹ 17,44,000",Petrol,183,5
+Ather,Ather Rizta,0,,123,"₹ 1,30,401",EV,119,4.7
+Ather,Ather 450X,0,,126,"₹ 1,55,840",EV,108,4
+Ather,Ather 450S,0,,115,"₹ 1,41,255",EV,108,4.5
+Ather,Ather 450 Apex,0,,157,"₹ 1,91,670",EV,111.6,4.5
+Benelli,Benelli TRK 502X,500,46.8,23,"₹ 6,70,000",Petrol,235,
+Benelli,Benelli 502C,500,46.8,,"₹ 5,25,000",Petrol,216,4.7
+Benelli,Benelli TRK 502,500,46.8,,"₹ 6,20,000",Petrol,228,
+Benelli,Benelli Leoncino 500,500,46.8,,"₹ 4,98,974",Petrol,207,5
+Benling,Benling Aura,0,,120,"₹ 91,667",EV,,2.6
+Benling,Benling Falcon,0,,75,"₹ 60,923",EV,,3.6
+Benling,Benling Kriti,0,,60,"₹ 56,781",EV,,3.2
+BGauss,BGauss C12,0,,85,"₹ 99,990",EV,106,4.5
+BGauss,BGauss RUV 350,0,,105,"₹ 1,19,402",EV,116,4.9
+BMW,BMW G310 RR,312.12,33.5,30,"₹ 3,05,000",Petrol,174,4.7
+BMW,BMW S1000RR,999,206.51,30.5,"₹ 21,10,000",Petrol,197,4.6
+BMW,BMW M 1000 RR,999,209.19,46,"₹ 49,00,000",Petrol,192,4.8
+BMW,BMW R 1250 GS,1254,134.1,,"₹ 20,55,000",Petrol,249,5
+BMW,BMW CE 02,0,,108,"₹ 4,49,900",EV,142,3.7
+BMW,BMW C 400 GT,350,33.5,,"₹ 11,50,000",Petrol,214,5
+BMW,BMW F850 GS,853,93.87,,"₹ 12,95,000",Petrol,233,4.9
+BMW,BMW R 1250 GS Adventure,1254,134.1,,"₹ 22,50,000",Petrol,268,4.9
+BMW,BMW S 1000 R,999,162.26,,"₹ 19,00,000",Petrol,199,4.6
+BMW,BMW R 1300 GS,1300,145,,"₹ 21,20,000",Petrol,237,5
+BMW,BMW M 1000 R,999,206.5,,"₹ 33,00,000",Petrol,199,5
+BMW,BMW CE 04,0,,130,"₹ 15,25,000",EV,231,5
+BMW,BMW R 12 nine T,1170,107.5,,"₹ 21,10,000",Petrol,220,4.7
+BMW,BMW F 900 GS,895,103.25,,"₹ 13,75,000",Petrol,219,4.8
+BMW,BMW K 1600,1649,158,,"₹ 33,32,775",Petrol,344,5
+BMW,BMW F 900 GS Adventure,895,103.25,,"₹ 14,75,000",Petrol,209,5
+BMW,BMW R 1300 GS Adventure,1300,143.4,,"₹ 22,00,000",Petrol,269,5
+BMW,BMW F900XR,895,103.25,,"₹ 12,55,000",Petrol,219,5
+BMW,BMW R 1250 RT,1254,134.1,,"₹ 24,95,000",Petrol,279,5
+BMW,BMW M 1000 XR,999,201,,"₹ 45,50,000",Petrol,223,4
+BMW,BMW S 1000 XR,999,167.62,,"₹ 22,75,000",Petrol,227,4.5
+BMW,BMW R 12,1170,93.7,,"₹ 20,10,000",Petrol,227,4
+BMW,BMW R18,1802,89.84,,"₹ 32,50,000",Petrol,427,4.6
+Bounce,Bounce Infinity E1,0,,70,"₹ 1,15,605",EV,94,3.6
+Brixton-Motorcycles,Brixton Motorcycles Crossfire 500 X,486,46.9,,"₹ 4,74,000",Petrol,190,3.8
+Brixton-Motorcycles,Brixton Motorcycles Cromwell 1200,1222,81.8,,"₹ 7,84,000",Petrol,235,4.8
+Brixton-Motorcycles,Brixton Motorcycles Cromwell 1200 X,1222,81.8,,"₹ 9,10,000",Petrol,235,
+Brixton-Motorcycles,Brixton Motorcycles Crossfire 500 XC,486,46.9,,"₹ 5,19,000",Petrol,195,
+BSA,BSA Gold Star 650,652,45.6,27,"₹ 3,12,150",Petrol,201,4.6
+Ducati,Ducati Panigale V4,1103,213,,"₹ 29,99,000",Petrol,191,5
+Ducati,Ducati Panigale V4 R,998,215,13.5,"₹ 69,99,000",Petrol,193.5,4.9
+Ducati,Ducati Monster,937,109.96,,"₹ 12,95,000",Petrol,188,4.7
+Ducati,Ducati Streetfighter V4,1103,205,,"₹ 24,62,400",Petrol,201,4.8
+Ducati,Ducati Panigale V2,955,152.8,20.5,"₹ 20,67,757",Petrol,200,4.9
+Ducati,Ducati SuperSport,937,108.62,,"₹ 16,05,700",Petrol,210,4.8
+Ducati,Ducati Scrambler Icon,803,71.87,,"₹ 9,96,700",Petrol,185,5
+Ducati,Ducati Diavel V4,1158,166.28,,"₹ 25,92,271",Petrol,236,4.7
+Ducati,Ducati Streetfighter V2,955,150.59,,"₹ 18,50,200",Petrol,200,4.8
+Ducati,Ducati Scrambler Full Throttle,803,71.87,,"₹ 12,60,000",Petrol,185,
+Ducati,Ducati Multistrada V4 RS,1103,180,,"₹ 38,42,687",Petrol,260,4.5
+Ducati,Ducati Hypermotard 698 Mono,659,76.43,,"₹ 16,50,000",Petrol,159,1
+Ducati,Ducati Scrambler Nightshift,803,71.87,,"₹ 12,00,711",Petrol,191,5
+Ducati,Ducati DesertX,937,108.6,,"₹ 18,33,200",Petrol,223,3.7
+Ducati,Ducati Multistrada V2,937,111.3,,"₹ 16,35,000",Petrol,222,5
+Ducati,Ducati Multistrada V4,1158,167.62,,"₹ 21,48,000",Petrol,240,5
+Ducati,Ducati Hypermotard 950,937,112.6,,"₹ 16,00,500",Petrol,200,4.4
+Ducati,Ducati Scrambler 1100,1079,84.48,,"₹ 13,40,000",Petrol,206,4.9
+Evolet,Evolet Derby,0,,90,"₹ 71,399",EV,76,4.4
+Evolet,Evolet Pony,0,,90,"₹ 55,799",EV,76,4.5
+Ferrato,Ferrato Disruptor,0,,129,"₹ 1,54,999",EV,164,4.7
+Gemopai,Gemopai Ryder,0,,90,"₹ 70,822",EV,80,3.4
+Gemopai,Gemopai Astrid Lite,0,,90,"₹ 92,290",EV,95,2.9
+Gemopai,Gemopai Ryder SuperMax,0,,100,"₹ 79,999",EV,80,4.3
+Harley-Davidson,Harley-Davidson X440,440,27,34,"₹ 2,39,500",Petrol,190.5,4.8
+Harley-Davidson,Harley-Davidson Sportster S,1252,120.69,19,"₹ 16,48,938",Petrol,228,4.8
+Harley-Davidson,Harley-Davidson Fat Bob,1868,92.5,,"₹ 21,48,934",Petrol,306,4.9
+Harley-Davidson,Harley-Davidson Nightster,975,88.5,,"₹ 13,38,924",Petrol,221,4.6
+Harley-Davidson,Harley-Davidson Fat Boy,1868,93.87,,"₹ 25,68,921",Petrol,317,4.6
+Harley-Davidson,Harley-Davidson Road Glide,1923,107.2,,"₹ 41,78,915",Petrol,380,5
+Harley-Davidson,Harley-Davidson Breakout,1923,101.9,,"₹ 30,99,000",Petrol,310,4
+Harley-Davidson,Harley-Davidson Street Glide,1923,107.2,,"₹ 38,78,915",Petrol,368,4.8
+Harley-Davidson,Harley-Davidson PAN America 1250 Special,1252,150.19,,"₹ 24,63,776",Petrol,258,4
+Harley-Davidson,Harley-Davidson Heritage Classic,1868,93.87,,"₹ 27,18,961",Petrol,330,3
+Hop-Electric,Hop Electric OXO,0,,140,"₹ 1,33,995",EV,140,3.5
+Hop-Electric,Hop Electric LEO,0,,95,"₹ 84,360",EV,77,2.7
+Husqvarna,Husqvarna Vitpilen 250,249,30.57,34,"₹ 2,24,174",Petrol,163.8,4.9
+Husqvarna,Husqvarna Svartpilen 401,399,42.9,28,"₹ 2,97,528",Petrol,171.2,4.8
+Indian,Indian Chief Dark Horse,1890,,,"₹ 20,20,000",Petrol,304,4.6
+Indian,Indian Chief Bobber Dark Horse,1890,,,"₹ 21,39,925",Petrol,315,5
+Indian,Indian Super Chief Limited,1890,,,"₹ 22,82,155",Petrol,335,5
+iVOOMi,iVOOMi S1,0,,110,"₹ 79,999",EV,84,4.4
+iVOOMi,iVOOMi Jeet X,0,,120,"₹ 84,999",EV,94,3.8
+Jawa,Jawa 42 Bobber,334,29.51,30,"₹ 2,11,864",Petrol,185,4.6
+Jawa,Jawa 42,294.72,26.94,32,"₹ 1,74,895",Petrol,184,4.2
+Jawa,Jawa 42 FJ,334,28.77,30,"₹ 2,01,045",Petrol,184,4.7
+Jawa,Jawa Perak,334,30.2,30,"₹ 2,19,019",Petrol,185,4.6
+Jawa,Jawa 350,334,22.26,27.5,"₹ 1,98,000",Petrol,194,3.7
+Joy-e-bike,Joy e-bike Glob,0,,60,"₹ 70,000",EV,66,2.5
+Joy-e-bike,Joy e-bike Wolf,0,,90,"₹ 72,000",EV,67,2.3
+Joy-e-bike,Joy e-bike Gen Nxt,0,,90,"₹ 70,000",EV,70,2.9
+Joy-e-bike,Joy e-bike Mihos,0,,130,"₹ 1,13,000",EV,110,3.7
+Keeway,Keeway SR125,125,9.56,47,"₹ 1,22,998",Petrol,120,4.3
+Keeway,Keeway SR250,223,15.78,35,"₹ 1,51,998",Petrol,120,3.6
+Keeway,Keeway V302C,298,29.09,34,"₹ 4,28,793",Petrol,167,4.3
+Keeway,Keeway K300 SF,292.4,27.8,37,"₹ 1,69,000",Petrol,151,4.6
+Keeway,Keeway K300 R,292.4,27.1,,"₹ 2,65,000",Petrol,165,4.4
+Keeway,Keeway K-Light 250V,249,18.4,,"₹ 2,69,033",Petrol,179,4.5
+Keeway,Keeway Vieste 300,278.2,18.4,,"₹ 3,25,000",Petrol,147,3.9
+Keeway,Keeway Sixties 300i,278.2,18.4,,"₹ 3,30,000",Petrol,146,5
+Kinetic-Green,Kinetic Green E Luna,0,,110,"₹ 69,990",EV,96,4.4
+Kinetic-Green,Kinetic Green Flex,0,,120,"₹ 1,09,874",EV,100,3.5
+Kinetic-Green,Kinetic Green Zing,0,,70,"₹ 67,990",EV,81,4.5
+Kinetic-Green,Kinetic Green Zulu,0,,104,"₹ 80,990",EV,93,3
+Lectrix,Lectrix LXS 3.0,0,,120,"₹ 1,01,980",EV,134,
+Lectrix,Lectrix SX25,0,,60,"₹ 54,999",EV,70,4.7
+Lectrix,Lectrix LXS 2.0,0,,98,"₹ 84,990",EV,100,
+Lectrix,Lectrix Nduro,0,,90,"₹ 1,01,620",EV,117,5
+Matter,Matter AERA,0,,172,"₹ 1,83,305",EV,168,4.4
+Moto-Guzzi,Moto Guzzi V85 TT,853,75.09,,"₹ 15,40,000",Petrol,230,5
+Moto-Morini,Moto Morini Seiemmezzo,649,54.24,,"₹ 4,99,131",Petrol,215,4
+Moto-Morini,Moto Morini X-Cape,649,59.17,,"₹ 5,99,000",Petrol,215,3.9
+Numeros-Motors,Numeros Motors Diplos,0,,140,"₹ 1,16,140",EV,137,
+Oben,Oben Rorr EZ,0,,110,"₹ 99,992",EV,138,4.7
+Oben,Oben Rorr,0,,187,"₹ 1,49,999",EV,147,4.4
+Odysse,Odysse Evoqis,0,,90,"₹ 1,18,000",EV,150,3.9
+Odysse,Odysse E2Go,0,,70,"₹ 71,100",EV,90,4.6
+Odysse,Odysse Hawk,0,,85,"₹ 99,400",EV,128,3
+Odysse,Odysse Racer,0,,75,"₹ 1,00,450",EV,107,
+Odysse,Odysse Trot,0,,75,"₹ 99,999",EV,110,
+Odysse,Odysse Vader,0,,125,"₹ 1,61,574",EV,128,4.8
+Okaya,Okaya Faast F4,0,,160,"₹ 1,09,999",EV,,3.8
+Okaya,Okaya Freedum,0,,75,"₹ 69,999",EV,,3.2
+Okaya,Okaya ClassIQ,0,,70,"₹ 59,999",EV,,3.7
+Okaya,Okaya Faast F2B,0,,80,"₹ 89,999",EV,,3.3
+Okaya,Okaya Faast F2T,0,,80,"₹ 89,999",EV,,4.2
+Okaya,Okaya Faast F2F,0,,80,"₹ 79,999",EV,,
+Okaya,Okaya Faast F3,0,,130,"₹ 1,04,999",EV,,5
+Okaya,Okaya Motofaast,0,,130,"₹ 1,33,999",EV,,5
+Okinawa,Okinawa Praise,0,,88,"₹ 85,223",EV,,2.6
+Okinawa,Okinawa Ridge Plus,0,,84,"₹ 90,549",EV,,3.1
+Okinawa,Okinawa i-Praise,0,,139,"₹ 1,23,155",EV,,3.6
+Okinawa,Okinawa Lite,0,,60,"₹ 69,087",EV,,4
+Okinawa,Okinawa R30,0,,60,"₹ 61,998",EV,,3.3
+Okinawa,Okinawa OKHI-90,0,,160,"₹ 1,49,991",EV,,3.7
+Okinawa,Okinawa Dual 100,0,,149,"₹ 1,19,085",EV,,2
+Okinawa,Okinawa Ridge 100,0,,149,"₹ 1,15,311",EV,,5
+OLA,OLA Roadster,0,,151,"₹ 1,04,999",EV,,4.7
+OLA,OLA S1 Pro,0,,176,"₹ 1,44,309",EV,109,4.1
+OLA,OLA S1 X,0,,108,"₹ 99,779",EV,105,4.6
+OLA,OLA Roadster Pro,0,,316,"₹ 1,99,999",EV,,4.8
+OLA,OLA Roadster X,0,,140,"₹ 1,03,917",EV,127,4.7
+OLA,OLA Gig,0,,112,"₹ 39,999",EV,,4.6
+OLA,OLA Roadster X Plus,0,,252,"₹ 1,33,917",EV,131.4,4.8
+OLA,OLA S1 X Gen 2,0,,95,"₹ 93,737",EV,101,4.2
+OLA,OLA Gig+,0,,157,"₹ 49,999",EV,,4.6
+OLA,OLA S1 Air,0,,151,"₹ 1,25,872",EV,108,4.1
+OLA,OLA S1 Pro Gen 2,0,,195,"₹ 1,57,757",EV,116,4.1
+OLA,OLA S1 Z,0,,146,"₹ 59,999",EV,,4.7
+PURE-EV,PURE EV EPluto 7G,0,,101,"₹ 77,999",EV,76,2.3
+PURE-EV,PURE EV ETrance Neo,0,,101,"₹ 73,999",EV,86,3
+PURE-EV,PURE EV Etryst 350,0,,171,"₹ 1,30,012",EV,120,3.6
+PURE-EV,PURE EV EcoDryft,0,,151,"₹ 1,00,012",EV,101,4.4
+QJ-Motor,QJ Motor SRK 400,400,40.34,,"₹ 3,68,974",Petrol,186,4.8
+QJ-Motor,QJ Motor SRC 250,249,17.16,,"₹ 1,49,020",Petrol,163,4.5
+QJ-Motor,QJ Motor SRC 500,480,25.15,,"₹ 1,99,026",Petrol,205,4.3
+QJ-Motor,QJ Motor SRV 300,296,29.88,,"₹ 3,19,000",Petrol,164,4.4
+Quantum-Energy,Quantum Energy Milan,0,,100,"₹ 80,003",EV,86,
+Quantum-Energy,Quantum Energy Plasma,0,,100,"₹ 89,095",EV,98,
+Quantum-Energy,Quantum Energy Bziness,0,,105,"₹ 95,009",EV,104,5
+Revolt,Revolt RV400,0,,150,"₹ 1,42,934",EV,108,4
+Revolt,Revolt RV1,0,,100,"₹ 94,983",EV,108,4.4
+Revolt,Revolt RV BlazeX,0,,150,"₹ 1,24,990",EV,113,5
+River,River Indie,0,,161,"₹ 1,43,001",EV,143,4.5
+Simple-Energy,Simple Energy One,0,,181,"₹ 1,39,999",EV,,4.4
+Ultraviolette,Ultraviolette Tesseract,0,,162,"₹ 1,45,000",EV,,4.8
+Ultraviolette,Ultraviolette F77 Mach 2,0,,211,"₹ 2,99,000",EV,197,4.6
+Ultraviolette,Ultraviolette Shockwave,0,,165,"₹ 1,50,000",EV,120,4.8
+Ultraviolette,Ultraviolette F77 SuperStreet,0,,211,"₹ 2,99,000",EV,197,5
+Vespa,Vespa 125,124.45,9.3,,"₹ 1,33,953",Petrol,115,4.3
+Vespa,Vespa VXL 125,124.45,9.65,40,"₹ 1,31,952",Petrol,115,3.5
+Vespa,Vespa SXL 125,124.45,9.65,40,"₹ 1,35,827",Petrol,115,4
+Vespa,Vespa SXL 150,149.5,10.64,35,"₹ 1,49,834",Petrol,115,4.2
+Vespa,Vespa VXL 150,149.5,10.64,41,"₹ 1,45,376",Petrol,115,4.4
+Vespa,Vespa ZX 125,124.45,9.65,,"₹ 1,17,762",Petrol,115,4.4
+Vespa,Vespa 150,149.5,11.2,,"₹ 1,48,939",Petrol,115,
+Vespa,Vespa S 125,124.45,9.3,,"₹ 1,37,834",Petrol,115,
+Vespa,Vespa S 150,149.5,11.2,,"₹ 1,51,784",Petrol,115,
+VIDA,VIDA V2,0,,94,"₹ 85,858",EV,116,4.3
+Yezdi,Yezdi Adventure,334,29.16,34.5,"₹ 2,17,101",Petrol,187,4.8
+Yezdi,Yezdi Roadster,334,29.23,28,"₹ 2,09,902",Petrol,194,4.3
+Yezdi,Yezdi Adventure [2024],334,29.6,30,"₹ 2,17,876",Petrol,187,4.7
+Yezdi,Yezdi Scrambler,334,28.7,26,"₹ 2,14,258",Petrol,192,3.9
+Yo,Yo Drift,0,,60,"₹ 64,991",EV,59,3.6
+Yo,Yo Edge,0,,60,"₹ 61,991",EV,59,4.1
+Zontes,Zontes 350T,348,38.2,,"₹ 2,99,000",Petrol,196,4.7
+Zontes,Zontes 350R,348,38.2,35,"₹ 2,79,000",Petrol,180,4.6
+Zontes,Zontes 350X,348,38.2,,"₹ 2,99,000",Petrol,185,4.4
+Zontes,Zontes GK350,348,38.2,,"₹ 3,47,000",Petrol,188,4.6
